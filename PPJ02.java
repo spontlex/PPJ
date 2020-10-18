@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PPJ2{
+public class PPJ02{
 	public static void main(String []args){
 	System.out.println("Hello PPJ");
 	
